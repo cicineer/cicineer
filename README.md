@@ -1,0 +1,3 @@
+- Hi, I’m @cicineer.
+- I’m interested in front-end techniques and specialized in Angular.
+- I like playing table tennis and football.
